@@ -95,29 +95,29 @@ export default function Home() {
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
               {/* Ganti dengan data proyek Anda */}
               <div className="group relative overflow-hidden rounded-lg">
-                <img src="./img/proyek 1.jpeg" alt="Proyek A" className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" />
+                <img src="public/img/proyek 1.jpeg" alt="Proyek A" className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" />
                 <div className="absolute inset-0 bg-black bg-opacity-70 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                   <div className="text-center">
-                    <h4 className="text-xl font-bold">Al-Quran Online</h4>
+                    <h4 className="text-xl font-bold">Aplikasi Manajemen Proyek</h4>
                     <p className="text-sm text-gray-300">Web Development</p>
                   </div>
                 </div>
               </div>
               <div className="group relative overflow-hidden rounded-lg">
-                <img src="./img/proyek 2.jpeg" alt="Proyek B" className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" />
+                <img src="https://via.placeholder.com/600x400/8B5CF6/FFFFFF?text=Proyek+B" alt="Proyek B" className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" />
                 <div className="absolute inset-0 bg-black bg-opacity-70 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                    <div className="text-center">
-                    <h4 className="text-xl font-bold">Company Website</h4>
-                    <p className="text-sm text-gray-300">Web Aplication</p>
+                    <h4 className="text-xl font-bold">Aplikasi E-Commerce</h4>
+                    <p className="text-sm text-gray-300">Mobile Development</p>
                   </div>
                 </div>
               </div>
               <div className="group relative overflow-hidden rounded-lg">
-                <img src="./img/proyek 4.jpeg" alt="Proyek C" className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" />
+                <img src="https://via.placeholder.com/600x400/8B5CF6/FFFFFF?text=Proyek+C" alt="Proyek C" className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" />
                 <div className="absolute inset-0 bg-black bg-opacity-70 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                    <div className="text-center">
-                    <h4 className="text-xl font-bold">Website Absensi</h4>
-                    <p className="text-sm text-gray-300">Web Aplication</p>
+                    <h4 className="text-xl font-bold">Desain Sistem Keuangan</h4>
+                    <p className="text-sm text-gray-300">UI/UX Design</p>
                   </div>
                 </div>
               </div>
